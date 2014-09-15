@@ -2,7 +2,7 @@ package Lection3;
 
 import java.util.Scanner;
 
-public class _3_SymmetricNumbersInRange {
+public class _1_SymmetricNumbersInRange {
 
 	public static void main(String[] args) {
 		System.out.print("Please enter two number separeted by space:");
